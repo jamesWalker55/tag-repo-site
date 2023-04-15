@@ -4,9 +4,9 @@ title: Extra Features
 type: docs
 ---
 
-## Extra Features
+# Extra Features
 
-### The folder panel
+## The folder panel
 
 ![Screenshot of the folder panel in tagquery](manual-folder-panel.jpg)
 
@@ -14,7 +14,7 @@ The folder panel allows you to search for items based on their folder structure.
 
 By default, the folder panel searches for files that are **direct children** of the folder. This means it does not search for files that are inside subfolders of the given path. This behaviour can be changed with the **"Recursive"** option in the panel settings. When enabled, the folder panel also searches for items that are in subfolders of the given path.
 
-### Audio preview
+## Audio preview
 
 ![Screenshot of the audio toolbar in tagquery](manual-audio-preview.jpg)
 

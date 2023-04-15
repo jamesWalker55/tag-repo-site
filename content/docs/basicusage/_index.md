@@ -4,11 +4,11 @@ title: Basic Usage
 type: docs
 ---
 
-## Basic Usage
+# Basic Usage
 
 tagrepo operates on folders. When you start the software, the file list remains empty until you choose a folder to act as a **repository**. After choosing a folder, tagrepo scans the folder and builds a list of file paths. After this is complete, you can then assign tags to files, as well as search for files.
 
-### Repositories
+## Repositories
 
 ![Screenshot of a repository in Windows Explorer, demonstrating the automatically-generated `.tagrepo` folder](manual-repository.jpg)
 
@@ -16,7 +16,7 @@ A repository is a single folder. tagrepo operates in a single repository (folder
 
 Every repository contains a folder named `.tagrepo`. This folder contains all the information tagrepo needs, like file paths and tags. If a folder doesn't yet have a `.tagrepo` folder, tagrepo automatically creates a `.tagrepo` folder at the base of the folder.
 
-### Tagging files
+## Tagging files
 
 ![Screenshot of the properties panel in tagrepo](manual-tagging.jpg)
 
@@ -28,7 +28,7 @@ Tagging is done through the properties panel. Click on the **Add tags** button t
 
 To remove a tag from a file, first select the file. On the properties panel, click on the tag you want to remove. The tag to-be-removed will be highlighted as you mouse over it.
 
-### Queries
+## Queries
 
 ![Screenshot of the query bar in tagrepo](manual-query.jpg)
 

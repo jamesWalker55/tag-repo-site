@@ -4,9 +4,9 @@ title: Advanced search operators
 type: docs
 ---
 
-### Advanced search operators
+# Advanced search operators
 
-#### in:
+## in:
 
 This searches for files that are under the given path. This includes files in subfolders.
 
@@ -25,7 +25,7 @@ apple/subfolder/cool.txt
 apple/subfolder/hello.txt
 ```
 
-#### children:
+## children:
 
 This searches for files that are direct children of given path. This does not include files in subfolders.
 
@@ -42,7 +42,7 @@ apple/a.txt
 apple/b.txt
 ```
 
-#### ext:
+## ext:
 
 This searches for files that have the given extension.
 
@@ -60,7 +60,7 @@ bee/buzz.wav
 cat/purr.wav
 ```
 
-#### leading:
+## leading:
 
 This searches for files that have a path which starts with the given text.
 
@@ -78,7 +78,7 @@ air/composition.txt
 apex/gameplay.mp4
 ```
 
-#### inpath:
+## inpath:
 
 This searches for files that contain the given text in the path.
 

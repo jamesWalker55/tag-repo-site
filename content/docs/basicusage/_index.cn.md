@@ -4,11 +4,11 @@ title: 基本用法
 type: docs
 ---
 
-## 基本用法
+# 基本用法
 
 tagrepo 操作的对象是文件夹。当你启动软件后，文件列表将保持为空，直到你选择一个文件夹作为 **Repository（储存库）**。选择文件夹后，tagrepo 将扫描文件夹并构建文件路径列表。完成后，你可以给文件分配标签并搜索文件。
 
-### Repositories
+## Repositories
 
 ![Windows资源管理器中存储库的截图，演示自动生成的“ .tagrepo”文件夹](manual-repository.jpg)
 
@@ -16,7 +16,7 @@ tagrepo 操作的对象是文件夹。当你启动软件后，文件列表将保
 
 每个“Repository”都包含名为“.tagrepo”的文件夹。该文件夹包含tagrepo需要的所有信息，如文件路径和标签。如果文件夹还没有“.tagrepo”文件夹，tagrepo会自动在文件夹的根目录中创建一个“.tagrepo”文件夹。
 
-### 给文件打标签
+## 给文件打标签
 
 ![tagrepo 中的属性面板截图](manual-tagging.jpg)
 
@@ -28,7 +28,7 @@ tagrepo 操作的对象是文件夹。当你启动软件后，文件列表将保
 
 要从文件中移除标签，先选择该文件。在属性面板中，单击您想要移除的标签。您的鼠标指针悬停在标签上时，将会看到该标签的高亮显示。
 
-### 查询
+## 查询
 
 ![tagrepo 中查询栏的屏幕截图](manual-query.jpg)
 

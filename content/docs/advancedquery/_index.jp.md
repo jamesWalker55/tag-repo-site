@@ -4,9 +4,9 @@ title: 高度な検索演算子
 type: docs
 ---
 
-### 高度な検索演算子
+# 高度な検索演算子
 
-#### in:
+## in:
 
 これにより、指定されたパスの下にあるファイルが検索されます。これには、サブフォルダ内のファイルも含まれます。
 
@@ -25,7 +25,7 @@ apple/subfolder/cool.txt
 apple/subfolder/hello.txt
 ```
 
-#### children:
+## children:
 
 このオペレーターは、指定されたパスの直接の子ファイルを検索します。サブフォルダー内のファイルは含まれません。
 
@@ -42,7 +42,7 @@ apple/a.txt
 apple/b.txt
 ```
 
-#### ext:
+## ext:
 
 このオペレータは、指定された拡張子を持つファイルを検索します。
 
@@ -60,7 +60,7 @@ bee/buzz.wav
 cat/purr.wav
 ```
 
-#### leading:
+## leading:
 
 この検索は、指定されたテキストで始まるパスを持つファイルを検索します。
 
@@ -78,7 +78,7 @@ air/composition.txt
 apex/gameplay.mp4
 ```
 
-#### inpath:
+## inpath:
 
 これは、指定されたテキストを含むパスのファイルを検索します。
 
