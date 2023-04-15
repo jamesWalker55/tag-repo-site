@@ -32,6 +32,8 @@ tagrepo是一个带有文件标签功能的文件管理器。它专为管理包�
 
 **注意**：该应用程序主要在 Windows 上进行了测试，在 Linux 上进行了最小限度的测试，并且在 MacOS 上没有进行测试（因为我没有 Mac）。
 
+问题：目前有一个错误导致 tagrepo 在退出后无法启动。修复将在 0.0.2 版本中发布，如果你遇到这个问题，请安装新版本。
+
 版本0.0.1：
 
 - [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.1/tag-repo_0.0.1_x64_en-US.msi)

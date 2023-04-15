@@ -32,6 +32,8 @@ tagrepoはファイルにタグを付ける機能を備えたファイルマネ�
 
 **注意：** このアプリケーションは主にWindowsでテストされました。Linuxでは最小限のテストが行われ、MacOSではテストが行われていません（Macを所有していないため）。
 
+バグ：現在、tagrepoを終了した後に起動しなくなるバグがあります。このバグは0.0.2で修正されますので、このバグに遭遇した場合は新しいバージョンをインストールしてください。
+
 バージョン0.0.1：
 
 - [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.1/tag-repo_0.0.1_x64_en-US.msi)
