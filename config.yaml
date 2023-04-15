@@ -15,11 +15,11 @@ languages:
     weight: 1
     title: tagrepo - A file manager with tags
   cn:
-    languageName: Chinese
+    languageName: 中文
     weight: 2
     title: tagrepo - 带标签的文件管理器
   jp:
-    languageName: Japanese
+    languageName: 日本語
     weight: 3
     title: tagrepo - タグ付きファイル管理ツール
 
