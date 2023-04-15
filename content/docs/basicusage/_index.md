@@ -16,6 +16,14 @@ A repository is a single folder. tagrepo operates in a single repository (folder
 
 Every repository contains a folder named `.tagrepo`. This folder contains all the information tagrepo needs, like file paths and tags. If a folder doesn't yet have a `.tagrepo` folder, tagrepo automatically creates a `.tagrepo` folder at the base of the folder.
 
+## File operations
+
+![Screenshot of the the context menu in tagrepo](manual-contextmenu.jpg)
+
+To access a file in the list, you can right click on a file to display a context menu. From the menu, you can either open the file, reveal the file (open the folder that contains the file), or copy the path of the file.
+
+You can also select multiple files in the list, then right click to operate on all of them at the same time. Hold down the Shift key and click on two files to create a range selection, and hold down Ctrl to select each file individually.
+
 ## Tagging files
 
 ![Screenshot of the properties panel in tagrepo](manual-tagging.jpg)
