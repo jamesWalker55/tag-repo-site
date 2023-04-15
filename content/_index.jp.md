@@ -43,4 +43,4 @@ tagrepoはファイルにタグを付ける機能を備えたファイルマネ�
 
 私は、コンピュータサイエンスコースの最終プロジェクトの一環として、このソフトウェアを開発しています。tagrepoを試したことがある場合は、このアンケートに回答して、プロジェクトを評価するのに役立ててください。
 
-[Google Formsへのリンク](https://forms.gle/r3fvEaKTqq5VGznq8)
+[Google Formsへのリンク](https://forms.gle/9td2pvuiChCbihe46)
