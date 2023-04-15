@@ -73,7 +73,7 @@ leading:a
 输出示例：
 
 ```
-apple/image.png
+apple.png
 air/composition.txt
 apex/gameplay.mp4
 ```
