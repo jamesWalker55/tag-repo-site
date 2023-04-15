@@ -1,4 +1,26 @@
-baseURL: "http://example.org/"
+baseURL: "https://jameswalker55.github.io/tag-repo-site/"
 languageCode: "en-us"
 title: "My New Hugo Site"
 theme: "hugo-book"
+
+staticDir:
+- static
+
+# internationalisation settings
+DefaultContentLanguage: en
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    title: tagrepo - A file manager with tags
+  cn:
+    languageName: Chinese
+    weight: 2
+    title: tagrepo - 带标签的文件管理器
+  jp:
+    languageName: Japanese
+    weight: 3
+    title: tagrepo - タグ付きファイル管理ツール
+
+# settings for 'hugo-book'
