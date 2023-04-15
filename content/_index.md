@@ -32,14 +32,18 @@ Planned features:
 
 *Note:* The application was mainly tested on Windows, minimal testing was done on Linux and no testing is done on MacOS (since I don't own a Mac).
 
-Bug: There is currently a bug in tagrepo that prevents it from launching after it is quit. A fix will be released shortly in version 0.0.2. If you encounter this bug, please install the new version.
+### Version 0.0.2 (Update 2023-04-15)
 
-Version 0.0.1:
+Changelog:
 
-- [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.1/tag-repo_0.0.1_x64_en-US.msi)
-- [MacOS _(Untested)_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.1/tag-repo_0.0.1_x64.dmg)
-- [Linux _(Untested)_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.1/tag-repo_0.0.1_amd64.deb)
-- [Other download options](https://github.com/jamesWalker55/tag-repo/releases/tag/tagrepo-v0.0.1)
+- Fixed app not launching after quitting
+
+Download links:
+
+- [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64_en-US.msi)
+- [MacOS _(Untested)_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64.dmg)
+- [Linux _(Untested)_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_amd64.deb)
+- [Other download options](https://github.com/jamesWalker55/tag-repo/releases/tag/tagrepo-v0.0.2)
 
 ## Survey
 

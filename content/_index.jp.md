@@ -32,14 +32,18 @@ tagrepoはファイルにタグを付ける機能を備えたファイルマネ�
 
 **注意：** このアプリケーションは主にWindowsでテストされました。Linuxでは最小限のテストが行われ、MacOSではテストが行われていません（Macを所有していないため）。
 
-バグ：現在、tagrepoを終了した後に起動しなくなるバグがあります。このバグは0.0.2で修正されますので、このバグに遭遇した場合は新しいバージョンをインストールしてください。
+### バージョン0.0.2：（更新日：2023-04-15）
 
-バージョン0.0.1：
+変更履歴：
 
-- [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.1/tag-repo_0.0.1_x64_en-US.msi)
-- [MacOS _（未テスト）_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.1/tag-repo_0.0.1_x64.dmg)
-- [Linux _（未テスト）_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.1/tag-repo_0.0.1_amd64.deb)
-- [その他のダウンロードオプション](https://github.com/jamesWalker55/tag-repo/releases/tag/tagrepo-v0.0.1)
+- 終了後にアプリが起動しない問題を修正しました。
+
+ダウンロードリンク：
+
+- [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64_en-US.msi)
+- [MacOS _（未テスト）_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64.dmg)
+- [Linux _（未テスト）_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_amd64.deb)
+- [その他のダウンロードオプション](https://github.com/jamesWalker55/tag-repo/releases/tag/tagrepo-v0.0.2)
 
 ## アンケート
 
