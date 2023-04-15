@@ -40,7 +40,7 @@ You search for a file containing a tag by simply typing the name of the tag. If 
 tag1 tag2 tag3 hello goodbye
 ```
 
-The query bar also supports searching by the path of the file. These search operators begin with the name of the operator (e.g. `in`), followed by a colon `:`, then the text to search for. You can use quotes (`"`, `'`) in the text to include spaces in the search. Currently, five search operators are supported: `inpath`, `in`, `ext`, `children`, `leading`. These will be discussed later in [Advanced search operators](https://jameswalker55.github.io/tag-repo-site/#manual-advanced-search).
+The query bar also supports searching by the path of the file. These search operators begin with the name of the operator (e.g. `in`), followed by a colon `:`, then the text to search for. You can use quotes (`"`, `'`) in the text to include spaces in the search. Currently, five search operators are supported: `inpath`, `in`, `ext`, `children`, `leading`. These will be discussed later in [Advanced search operators]({{< relref "/docs/advancedquery" >}}).
 
 ```
 in:drums

@@ -40,7 +40,7 @@ tagrepo 支持灵活的查询语言，可以通过标签或相对路径搜索文
 tag1 tag2 tag3 hello goodbye
 ```
 
-查询栏还支持通过文件路径进行搜索。这些搜索运算符以运算符名称（例如 `in`）开头，后跟冒号 `:`，然后是要搜索的文本。您可以在文本中使用引号（`"`,`'`）来包含搜索中的空格。目前支持五个搜索运算符：`inpath`、`in`、`ext`、`children`、`leading`。这些将在[高级搜索运算符](https://jameswalker55.github.io/tag-repo-site/#manual-advanced-search)中讨论。
+查询栏还支持通过文件路径进行搜索。这些搜索运算符以运算符名称（例如 `in`）开头，后跟冒号 `:`，然后是要搜索的文本。您可以在文本中使用引号（`"`,`'`）来包含搜索中的空格。目前支持五个搜索运算符：`inpath`、`in`、`ext`、`children`、`leading`。这些将在[高级搜索运算符]({{< relref "/docs/advancedquery" >}})中讨论。
 
 ```
 in:drums
