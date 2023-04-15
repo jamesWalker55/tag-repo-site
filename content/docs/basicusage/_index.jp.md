@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Basic Usage
+title: 基本的な使用法
 type: docs
 ---
 

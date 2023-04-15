@@ -1,11 +1,14 @@
 ---
+weight: 2
 title: Extra Features
 type: docs
 ---
 
+## Extra Features
+
 ### The folder panel
 
-![Screenshot of the folder panel in tag-query](manual-folder-panel.jpg)
+![Screenshot of the folder panel in tagquery](manual-folder-panel.jpg)
 
 The folder panel allows you to search for items based on their folder structure. This is hidden by default and can be enabled through the toolbar: `View > Folders`
 
@@ -13,7 +16,7 @@ By default, the folder panel searches for files that are **direct children** of 
 
 ### Audio preview
 
-![Screenshot of the audio toolbar in tag-query](manual-audio-preview.jpg)
+![Screenshot of the audio toolbar in tagquery](manual-audio-preview.jpg)
 
 _Note: Audio preview is still in early development and may be buggy at times._
 
