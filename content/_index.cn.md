@@ -32,7 +32,23 @@ tagrepo是一个带有文件标签功能的文件管理器。它专为管理包�
 
 **注意**：该应用程序主要在 Windows 上进行了测试，在 Linux 上进行了最小限度的测试，并且在 MacOS 上没有进行测试（因为我没有 Mac）。
 
-### 版本 0.0.2（更新时间：2023-04-15）
+### 版本 0.0.3（2023-04-17）
+
+更新日志：
+
+- 添加了快捷键“Ctrl-A”以选择所有项目
+- 默认启用音频预览（如果系统支持）
+- 默认显示文件夹面板
+- 文件夹面板默认使用递归模式
+
+下载链接：
+
+- [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.3/tag-repo_0.0.3_x64_en-US.msi)
+- [MacOS](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.3/tag-repo_0.0.3_x64.dmg)
+- [Linux](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.3/tag-repo_0.0.3_amd64.deb)
+- [其他下载选项](https://github.com/jamesWalker55/tag-repo/releases/tag/tagrepo-v0.0.3)
+
+### 版本 0.0.2（2023-04-15）
 
 更新日志：
 
@@ -41,8 +57,8 @@ tagrepo是一个带有文件标签功能的文件管理器。它专为管理包�
 下载链接：
 
 - [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64_en-US.msi)
-- [MacOS _（未测试）_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64.dmg)
-- [Linux _（未测试）_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_amd64.deb)
+- [MacOS](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64.dmg)
+- [Linux](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_amd64.deb)
 - [其他下载选项](https://github.com/jamesWalker55/tag-repo/releases/tag/tagrepo-v0.0.2)
 
 ## 调查问卷

@@ -32,7 +32,23 @@ Planned features:
 
 *Note:* The application was mainly tested on Windows, minimal testing was done on Linux and no testing is done on MacOS (since I don't own a Mac).
 
-### Version 0.0.2 (Update 2023-04-15)
+### Version 0.0.3 (2023-04-17)
+
+Changelog:
+
+- Added a hotkey "Ctrl-A" to select all items
+- Enable audio previews by default (if it is supported by the system)
+- Show folder panel by default
+- Folder panel uses recursive mode by default
+
+Download links:
+
+- [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.3/tag-repo_0.0.3_x64_en-US.msi)
+- [MacOS](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.3/tag-repo_0.0.3_x64.dmg)
+- [Linux](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.3/tag-repo_0.0.3_amd64.deb)
+- [Other download options](https://github.com/jamesWalker55/tag-repo/releases/tag/tagrepo-v0.0.3)
+
+### Version 0.0.2 (2023-04-15)
 
 Changelog:
 
@@ -41,8 +57,8 @@ Changelog:
 Download links:
 
 - [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64_en-US.msi)
-- [MacOS _(Untested)_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64.dmg)
-- [Linux _(Untested)_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_amd64.deb)
+- [MacOS](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64.dmg)
+- [Linux](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_amd64.deb)
 - [Other download options](https://github.com/jamesWalker55/tag-repo/releases/tag/tagrepo-v0.0.2)
 
 ## Survey

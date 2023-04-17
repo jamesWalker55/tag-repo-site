@@ -32,7 +32,23 @@ tagrepoはファイルにタグを付ける機能を備えたファイルマネ�
 
 **注意：** このアプリケーションは主にWindowsでテストされました。Linuxでは最小限のテストが行われ、MacOSではテストが行われていません（Macを所有していないため）。
 
-### バージョン0.0.2：（更新日：2023-04-15）
+### バージョン0.0.3：（2023-04-17）
+
+変更履歴：
+
+- 全てのアイテムを選択するためのホットキー「Ctrl-A」を追加しました
+- オーディオのプレビューをデフォルトで有効にする（システムが対応している場合）
+- フォルダパネルをデフォルトで表示する
+- フォルダパネルはデフォルトで再帰モードを使用する
+
+ダウンロードリンク：
+
+- [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.3/tag-repo_0.0.3_x64_en-US.msi)
+- [MacOS](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.3/tag-repo_0.0.3_x64.dmg)
+- [Linux](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.3/tag-repo_0.0.3_amd64.deb)
+- [その他のダウンロードオプション](https://github.com/jamesWalker55/tag-repo/releases/tag/tagrepo-v0.0.3)
+
+### バージョン0.0.2：（2023-04-15）
 
 変更履歴：
 
@@ -41,8 +57,8 @@ tagrepoはファイルにタグを付ける機能を備えたファイルマネ�
 ダウンロードリンク：
 
 - [Windows](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64_en-US.msi)
-- [MacOS _（未テスト）_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64.dmg)
-- [Linux _（未テスト）_](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_amd64.deb)
+- [MacOS](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_x64.dmg)
+- [Linux](https://github.com/jamesWalker55/tag-repo/releases/download/tagrepo-v0.0.2/tag-repo_0.0.2_amd64.deb)
 - [その他のダウンロードオプション](https://github.com/jamesWalker55/tag-repo/releases/tag/tagrepo-v0.0.2)
 
 ## アンケート
